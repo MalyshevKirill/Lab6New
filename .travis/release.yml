@@ -9,6 +9,6 @@ deploy:
   pi_key: $GITHUB_TOKEN
   skip_cleanup: true
   on:
-    repo: Timanchik/LB6
+    repo: MalyshevKirill/Lab6New
     branch: master
     tags: false
